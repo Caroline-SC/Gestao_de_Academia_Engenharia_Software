@@ -62,19 +62,17 @@ Representação dos principais fluxos de informações do sistema orientados a e
 
 ![Diagrama de Fluxo de Dados](./Diagrama_de_fluxo_de_dados.png)
 
-
 ## 6. Modelo Conceitual
 
 Design do Modelo Conceitual de Dados identificando entidades, atributos, relacionamentos, chaves e cardinalidades:
 
 ![Modelo Conceitual](./Modelo_conceitual.png)
 
+## 7. Modelo Lógico
 
-## 7. Modelo Logico
+Design do Modelo Lógico de Dados:
 
-Design do Modelo Logico :
-
-![Modelo Logico]()
+![Modelo Lógico](./Modelo_Logico.png)
 
 
 ## 8. Script SQL (DDL)
