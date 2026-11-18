@@ -60,7 +60,7 @@ Além disso, o sistema deve permitir que um aluno se matricule em múltiplas tur
 
 Representação dos principais fluxos de informações do sistema orientados a eventos:
 
-![Diagrama de Fluxo de Dados](./Diagrama_de_fluxo_de_dados.png)
+![Diagrama de Fluxo de Dados](./Diagrama_de_fluxo_de_dados.jpeg)
 
 ## 6. Modelo Conceitual
 
