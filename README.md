@@ -74,7 +74,7 @@ Design do Modelo Conceitual de Dados identificando entidades, atributos, relacio
 
 Design do Modelo Logico :
 
-![Modelo Logico](./Modelo_Logico.png)
+![Modelo Logico]()
 
 
 ## 8. Script SQL (DDL)
