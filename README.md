@@ -60,22 +60,22 @@ Além disso, o sistema deve permitir que um aluno se matricule em múltiplas tur
 
 Representação dos principais fluxos de informações do sistema orientados a eventos:
 
-![Diagrama de Fluxo de Dados](CAMINHO_DA_IMAGEM_DFD)
+![Diagrama de Fluxo de Dados](./Diagrama_de_fluxo_de_dados.png)
 
 *(Substitua o caminho acima pela imagem do seu DFD)*
 
-## 6. Modelo Lógico
+## 6. Modelo Conceitual
 
-Design do Modelo Lógico de Dados identificando entidades, atributos, relacionamentos, chaves e cardinalidades:
+Design do Modelo Conceitual de Dados identificando entidades, atributos, relacionamentos, chaves e cardinalidades:
 
-![Modelo Lógico](CAMINHO_DA_IMAGEM_MODELO_LOGICO)
+![Modelo Conceitual](./Modelo_Conceitual.png)
 
 
-## 7. Modelo Físico (DER)
+## 7. Modelo Logico
 
-Design do Modelo Físico representado por meio do Diagrama Entidade-Relacionamento (DER):
+Design do Modelo Logico :
 
-![Modelo Físico DER](CAMINHO_DA_IMAGEM_DER)
+![Modelo Logico](./Modelo_Logico.png)
 
 
 ## 8. Script SQL (DDL)
