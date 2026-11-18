@@ -154,7 +154,7 @@ CREATE TABLE Presenca (
 
 O fluxo de navegação, telas de cadastro, consultas e relatórios foram prototipados no Figma.
 
-* **Link do Protótipo Interativo:** [Acessar Protótipo no Figma](https://www.figma.com/design/oXYaSfnajNajtN8vjuh7if/Projeto_Academia?node-id=2-55&t=Z0GUl0Bkvn1P3Awx-1)
+* **Link do Protótipo Interativo:** [Acessar Protótipo no Figma](https://www.figma.com/proto/oXYaSfnajNajtN8vjuh7if/Projeto_Academia?node-id=0-1&p=f&t=DSG7rY3YgM93lqXF-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
 
 ### Principais Telas
 
