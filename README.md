@@ -62,13 +62,12 @@ Representação dos principais fluxos de informações do sistema orientados a e
 
 ![Diagrama de Fluxo de Dados](./Diagrama_de_fluxo_de_dados.png)
 
-*(Substitua o caminho acima pela imagem do seu DFD)*
 
 ## 6. Modelo Conceitual
 
 Design do Modelo Conceitual de Dados identificando entidades, atributos, relacionamentos, chaves e cardinalidades:
 
-![Modelo Conceitual](./Modelo_Conceitual.png)
+![Modelo Conceitual](./Modelo_conceitual.png)
 
 
 ## 7. Modelo Logico
